@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cuatro">4dp</dimen>
+    <dimen name="margenDiez">10dp</dimen>
+    <dimen name="margenVeinte">20dp</dimen>
+    <dimen name="textsCV">15dp</dimen>
+
+
+</resources>
